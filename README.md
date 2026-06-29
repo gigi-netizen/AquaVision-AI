@@ -1,3 +1,8 @@
+---
+title: AquaVision AI
+sdk: docker
+app_port: 7860
+---
 # AquaVision AI
 
 ## Intelligent Detection and Classification of Microorganisms in Water Samples
